@@ -1,0 +1,8 @@
+C:\Users\aeman\OneDrive\Masaüstü\akademi\Hw\Hw\bin\Debug\Hw.exe.config
+C:\Users\aeman\OneDrive\Masaüstü\akademi\Hw\Hw\bin\Debug\Hw.exe
+C:\Users\aeman\OneDrive\Masaüstü\akademi\Hw\Hw\bin\Debug\Hw.pdb
+C:\Users\aeman\OneDrive\Masaüstü\akademi\Hw\Hw\obj\Debug\Hw.csproj.AssemblyReference.cache
+C:\Users\aeman\OneDrive\Masaüstü\akademi\Hw\Hw\obj\Debug\Hw.csproj.SuggestedBindingRedirects.cache
+C:\Users\aeman\OneDrive\Masaüstü\akademi\Hw\Hw\obj\Debug\Hw.csproj.CoreCompileInputs.cache
+C:\Users\aeman\OneDrive\Masaüstü\akademi\Hw\Hw\obj\Debug\Hw.exe
+C:\Users\aeman\OneDrive\Masaüstü\akademi\Hw\Hw\obj\Debug\Hw.pdb
